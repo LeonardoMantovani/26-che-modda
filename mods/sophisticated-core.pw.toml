@@ -1,0 +1,13 @@
+name = "Sophisticated Core"
+filename = "sophisticatedcore-1.21.1-1.3.69.1126.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nmoqTijg/versions/FxoaX3R8/sophisticatedcore-1.21.1-1.3.69.1126.jar"
+hash-format = "sha512"
+hash = "2ff143b949776004f9832aa5f437c538bf507974ad889e3017eaf1494370072de4a0be90550707d5089bcfa56e7afa5e545aad461624ec60082af4aac76258e8"
+
+[update]
+[update.modrinth]
+mod-id = "nmoqTijg"
+version = "FxoaX3R8"

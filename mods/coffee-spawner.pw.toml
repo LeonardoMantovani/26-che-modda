@@ -1,0 +1,13 @@
+name = "Coffee Spawner"
+filename = "CoffeeSpawner-1.21.1-12.0.0-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4c3f6eaf310fee0f385121c3db14e4a1cd50ffdc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5666558
+project-id = 257588

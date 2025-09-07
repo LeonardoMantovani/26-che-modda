@@ -1,0 +1,13 @@
+name = "Phasorite Networks"
+filename = "phasoritenetworks-0.0.5-beta.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZEvlCeIH/versions/jST8GMa6/phasoritenetworks-0.0.5-beta.jar"
+hash-format = "sha512"
+hash = "3f6c32a984eb833cf6242792b011afe03736e01739d5f3dd9babcb44a2fc36591ee47dfdae54b327b7512a3699338238639c92f06b15a52fd94402b29a80e2ae"
+
+[update]
+[update.modrinth]
+mod-id = "ZEvlCeIH"
+version = "jST8GMa6"

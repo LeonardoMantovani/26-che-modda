@@ -1,0 +1,13 @@
+name = "26 che modda"
+author = "26 che gioca"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "e8b0135a760a3253862cce6184c3a87bf1a18417664542077d093fb0bc5ef9be"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.206"
