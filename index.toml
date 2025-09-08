@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "26-che-modda.xlsx"
-hash = "7e6d9709cc29c736ac06cdf4260cdeeeb11ad2cfdaa1254ead2ed8ba07d848d0"
-
-[[files]]
 file = "mods/amplified-nether.pw.toml"
 hash = "a1186d955fd44fb241db87c68a6babce4c8b32230db8962142b506b2cc3b2f38"
 metafile = true
