@@ -3,11 +3,11 @@ filename = "PickleTweaks-1.21.1-9.0.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/J868sgbE/versions/b4Hlwp9T/PickleTweaks-1.21.1-9.0.5.jar"
-hash-format = "sha512"
-hash = "900ccf57d47d8feed5ddf3a9704865df0146ff3130b1817b379e471bc616f44d110e7f677f192fed979a923186d0067d20407e8d4c8e1c72b956f2396c8dbc30"
+hash-format = "sha1"
+hash = "c2cdac15c1cbb93f1b6f9c471dad6ef08982b0df"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "J868sgbE"
-version = "b4Hlwp9T"
+[update.curseforge]
+file-id = 6128567
+project-id = 238761

@@ -3,11 +3,11 @@ filename = "MekanismTools-1.21.1-10.7.15.81.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/tqQpq1lt/versions/TiHNxSAS/MekanismTools-1.21.1-10.7.15.81.jar"
-hash-format = "sha512"
-hash = "c0d983eddf8529241c0d9e6d7a09b0cd3943840706f7fca27bd3ec80b284636a8360b2e79e9fffd46a5a661343e8dfdb02c36c29f82efea0268db6e8563ffea4"
+hash-format = "sha1"
+hash = "a162337191d25e4dc27f180b35922d290bbe39c1"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "tqQpq1lt"
-version = "TiHNxSAS"
+[update.curseforge]
+file-id = 6895134
+project-id = 268567

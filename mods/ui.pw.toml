@@ -1,0 +1,13 @@
+name = "UI Lib"
+filename = "uilib-1.0.1-1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cb0b3adfb3d62cbc839fa29ffb51bdd1fcf30dbf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6755495
+project-id = 933200

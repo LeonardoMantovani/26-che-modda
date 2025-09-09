@@ -3,11 +3,11 @@ filename = "refinedstorage-emi-integration-neoforge-1.0.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/TCSDwmbf/versions/zpz6Pcxn/refinedstorage-emi-integration-neoforge-1.0.0.jar"
-hash-format = "sha512"
-hash = "9e6f4e487c1a1b50e75074b3128a8d27f8dc94260db435aab0efceb41e5c13ca5d1e177d6b78153fa97253408acde0eff3dcb5427c2d28f5ab5fe2c40529e377"
+hash-format = "sha1"
+hash = "66302f8ea98bf4fb9c7beb948556bda98539b0cf"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "TCSDwmbf"
-version = "zpz6Pcxn"
+[update.curseforge]
+file-id = 6360283
+project-id = 1230691
