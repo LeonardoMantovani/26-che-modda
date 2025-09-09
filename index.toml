@@ -61,7 +61,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "42ffb6f5835250003da6ca3667ff751709ea295faee43b49c365b0f6c1e8f4d8"
+hash = "616036c38fafbcaf00c0720d947ec39f571d885a014f0c81b5eeeb4193784e0e"
 metafile = true
 
 [[files]]
@@ -96,12 +96,12 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "487fd240926c302876e71823f983c511b0a0566ef499e0ddefad88cc1d957375"
+hash = "0042336abc94bae434faa534e9c2e1d1e477d5f984f9f993d92aa856143f3379"
 metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "714020a3c585a47b0958db65c9f200c9dcfb7ce04f5a9aa07281b95f91d83d09"
+hash = "9389b4311f93eaea1e627ee793137607370e2e782836e03ee6ca49a41cc7b06d"
 metafile = true
 
 [[files]]
