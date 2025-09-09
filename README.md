@@ -42,6 +42,7 @@ Il modpack per il server di *26 che gioca*
 - [x] [EMI](https://www.curseforge.com/minecraft/mc-mods/emi)
 - [x] [Extreme Sound Muffler](https://www.curseforge.com/minecraft/mc-mods/extreme-sound-muffler)
 - [x] [Fast Leaf Decay](https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay)
+- [x] [Forgematica](https://www.curseforge.com/minecraft/mc-mods/forgematica)
 - [x] [Gravestone Mod](https://www.curseforge.com/minecraft/mc-mods/gravestone-mod)
 - [x] [Inventory Sorter](https://www.curseforge.com/minecraft/mc-mods/inventory-sorter)
 - [x] [Jade](https://www.curseforge.com/minecraft/mc-mods/jade)
