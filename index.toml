@@ -120,6 +120,11 @@ hash = "e5c471aaab9047178ad25e91d28240fefd7b6e48d52af4274bc53239eb1da8c6"
 metafile = true
 
 [[files]]
+file = "mods/forgematica.pw.toml"
+hash = "932b10e83044b22265b7e6e3e54aca0407eb0a1592c06c9338235670f2047770"
+metafile = true
+
+[[files]]
 file = "mods/ftb-jei-extras.pw.toml"
 hash = "2d84cfd5fb3079d41713ed47e596e9986eb427f8e64906a2217cb459410c062e"
 metafile = true
@@ -222,6 +227,11 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "8fb821696362916090187ec37c353f7fd6da70e83c0b493ec3d6e669934febb2"
+metafile = true
+
+[[files]]
+file = "mods/mafglib.pw.toml"
+hash = "ca2e61df06471d67a45ece6990d474f114a8d4b900335b690ecdeb2af38efba5"
 metafile = true
 
 [[files]]

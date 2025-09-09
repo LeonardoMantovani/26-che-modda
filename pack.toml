@@ -1,12 +1,12 @@
 name = "26 che modda"
 author = "26 che gioca"
-version = "1.1.0"
+version = "1.2.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "e9a1c33d01dd2cf2e63347999f96b4d53a15f744a77df8e7a58b68b4474c8aee"
+hash = "16356f1fcc88d34cef603e56031f7309b955f159b6318f1216576907d07ca733"
 
 [versions]
 minecraft = "1.21.1"
