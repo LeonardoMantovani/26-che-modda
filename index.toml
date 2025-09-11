@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "dc2d0d72957b523741913f9482fd1a47405d219c97197d3a5e862423a60cf062"
+hash = "5e8d93b03e3b5aea0c9e35f21df4eb614610292a76aaf3d6080a65c3cb905228"
 
 [[files]]
 file = "mods/amplified-nether.pw.toml"
