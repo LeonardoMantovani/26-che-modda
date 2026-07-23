@@ -1,0 +1,19 @@
+# Git-related files
+.git/**
+.gitattributes
+.gitignore
+.packwizignore
+
+# IDE files
+.vscode/**
+.idea/**
+
+# AI files
+.claude/**
+
+# Markdown files
+*.md
+!README.md
+
+# Exported modpacks
+exports/**

@@ -3,11 +3,11 @@ filename = "refinedstorage-curios-integration-1.0.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "410fcfeb37917eca553ef4db6ba3c5a239161268"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/s6zjL86N/versions/Mth1azz7/refinedstorage-curios-integration-1.0.0.jar"
+hash-format = "sha512"
+hash = "868a5c820ad29e66adb92a3691addfccfc4cc6be0a8b6bac5ed4fe930771e67d35de36bb192a69ef3b37b93c35ac87e213a804201a5272a3b9e826cd023a309c"
 
 [update]
-[update.curseforge]
-file-id = 6360514
-project-id = 1230729
+[update.modrinth]
+mod-id = "s6zjL86N"
+version = "Mth1azz7"

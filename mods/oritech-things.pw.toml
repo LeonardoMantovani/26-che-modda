@@ -1,13 +1,13 @@
 name = "Oritech Things"
-filename = "oritechthings-0.0.25.jar"
+filename = "oritechthings-0.0.44.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "3219072c671841d837f69db0ce6d1d7c1dc00de2"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/C7tBAibK/versions/p4bhJetx/oritechthings-0.0.44.jar"
+hash-format = "sha512"
+hash = "7bc03296c0098ade2ee115732642fbab86a15a2d12af10c4b1885b58c7b23b11f6f661abcdd5d093155326a5349197c6bdb50a76f9139d54afaa718c2a630c61"
 
 [update]
-[update.curseforge]
-file-id = 6903188
-project-id = 1166849
+[update.modrinth]
+mod-id = "C7tBAibK"
+version = "p4bhJetx"
